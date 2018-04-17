@@ -312,6 +312,12 @@ button:focus {
 /*===========================
         7.WORK
 =============================*/
+
+.custom-content {
+      background-color: #ffffff;
+      color: #000000
+}
+
 .work_menu li a {
     cursor: pointer;
     display: block;
